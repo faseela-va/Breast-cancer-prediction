@@ -17,3 +17,9 @@ For this study, the raw data collected is obtained from the online resource
 kaggle.c, which will be used to train machine learning models. The data is
 originally available in English language, and it was obtained in the comma
 separated values (CSV) format. The dataset contains 32 features as columns and 569 rows.
+The dataset under consideration comprises information related to
+breast cancer, encompassing a total of 32 columns representing diverse features associated with tumors.
+Each row in the dataset corresponds to a
+specific instance or case, providing valuable insights into the characteristics
+of breast cancer.The target variable, indicating whether the tumor is malignant (cancerous) or benign (non-cancerous). It is a categorical attribute
+with two classes: ”M” for malignant and ”B” for benign.
