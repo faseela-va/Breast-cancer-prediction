@@ -33,8 +33,7 @@ relevant features.The model showcased commendable performance, demonstrating its
 Through feature analysis and model interpretation, we gained insights
 into the critical factors contributing to the prediction of breast cancer, enhancing our understanding of the underlying patterns in the dataset.The
 project faced challenges related to data quality, missing values, and the need
-for robust preprocessing. Addressing these challenges underscored the im19
-portance of meticulous data preparation in the success of machine learning
+for robust preprocessing. Addressing these challenges underscored the importance of meticulous data preparation in the success of machine learning
 applications.our breast cancer prediction project contributes to the ongoing
 efforts in leveraging machine learning for medical diagnostics. The journey
 has not only provided valuable insights into the predictive capabilities of
