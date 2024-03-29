@@ -12,8 +12,8 @@ standard medical diagnoses, demonstrate promising results in terms of accuracy a
 This project contributes to the ongoing efforts in the
 field of medical diagnostics by providing an effective and interpretable tool
 for breast cancer detection.
-About the the Dataset
+# About the the Dataset
 For this study, the raw data collected is obtained from the online resource
 kaggle.c, which will be used to train machine learning models. The data is
 originally available in English language, and it was obtained in the comma
-separated values (CSV) format.
+separated values (CSV) format. The dataset contains 32 features as columns and 569 rows.
